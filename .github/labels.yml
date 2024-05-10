@@ -1,0 +1,36 @@
+# The labels in this file are automatically synced with the repository
+# using the micnncim/action-label-syncer action.
+---
+- name: C-dependency
+  color: 1abc9c
+  description: "Category: Dependency"
+- name: PR-block
+  color: 3498db
+  description: "Pull Request: Do not merge"
+- name: PR-merge
+  color: 3498db
+  description: "Pull Request: Merge when ready"
+- name: bug
+  color: ee0701
+  description: "Bug Report"
+- name: triage
+  color: 0c9cf2
+  description: "Needs Triaging"
+- name: feature
+  color: dc8b10
+  description: "Feature Request"
+- name: invalid
+  color: e6e6e6
+  description: "Invalid Issue"
+- name: duplicate
+  color: 4e6ca2
+  description: "Duplicate Issue"
+- name: patch
+  color: 834dd1
+  description: "Change leading to a patch level version bump"
+- name: minor
+  color: 764ab5
+  description: "Change leading to a minor level version bump"
+- name: major
+  color: 6b3bad
+  description: "A (breaking) change leading to a major version bump"
