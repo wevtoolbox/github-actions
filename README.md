@@ -1,14 +1,14 @@
 # GitHub Action Reusable Workflows
 
-[![Tag](https://img.shields.io/github/tag/devilbox/github-actions.svg)](https://github.com/devilbox/github-actions/releases)
+[![Tag](https://img.shields.io/github/tag/wevtoolbox/github-actions.svg)](https://github.com/wevtoolbox/github-actions/releases)
 [![License](https://img.shields.io/badge/license-MIT-%233DA639.svg)](https://opensource.org/licenses/MIT)
 
-Required GitHub Action Reusable Workflows for Devilbox. See [.github/workflows](.github/workflows).
+Required GitHub Action Reusable Workflows for WevToolbox. See [.github/workflows](.github/workflows).
 
 
 ## :computer: Usage
 
-See how the reusable workflows are used [from this repository](https://github.com/devilbox/github-actions/network/dependents).
+See how the reusable workflows are used [from this repository](https://github.com/wevtoolbox/github-actions/network/dependents).
 
 
 ## :exclamation: Keep up-to-date with GitHub Dependabot
