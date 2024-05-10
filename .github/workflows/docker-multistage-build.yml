@@ -20,7 +20,7 @@ on:
         required: true
         type: string
       artifact_prefix:
-        description: 'Unique artifact name prefix (to avoid overriding existing artifcats during parallel runs).'
+        description: 'Unique artifact name prefix (to avoid overriding existing artifacts during parallel runs).'
         required: true
         type: string
       has_refs:
@@ -28,11 +28,11 @@ on:
         required: true
         type: boolean
       run_tests:
-        description: 'Dertermines whether we run integration tests or not.'
+        description: 'Determines whether we run integration tests or not.'
         required: true
         type: boolean
       upload_artifact:
-        description: 'Dertermines whether we upload the artifact not.'
+        description: 'Determines whether we upload the artifact not.'
         required: true
         type: boolean
       push_image:

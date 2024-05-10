@@ -6,16 +6,16 @@
 Required GitHub Action Reusable Workflows for WevToolbox. See [.github/workflows](.github/workflows).
 
 
-## :computer: Usage
+## 💻 Usage
 
 See how the reusable workflows are used [from this repository](https://github.com/wevtoolbox/github-actions/network/dependents).
 
 
-## :exclamation: Keep up-to-date with GitHub Dependabot
+## ❗ Keep up-to-date with GitHub Dependabot
 
 
-| :warning: UPDATE    |
-|:--------------------|
+| :warning: UPDATE                                                                                                                                                |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | The following is not yet available as part of Dependabots package ecosystem.<br/>https://github.community/t/dependabot-with-reusable-workflow-versions/207372/4 |
 
 
@@ -34,8 +34,10 @@ updates:
 Then Dependabot will PR you version updates as soon as this repository gets updated.
 
 
-## :page_facing_up: License
+## 📄 License
 
-**[MIT License](LICENSE)**
+**[MIT License](LICENSE.md)**
 
-Copyright (c) 2022 [cytopia](https://github.com/cytopia)
+Copyright (c) 2022 **[cytopia](https://github.com/cytopia)**
+
+Copyright (c) 2024 **[bogny](https://github.com/bogny)**
