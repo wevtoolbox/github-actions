@@ -16,7 +16,7 @@ on:
         required: true
         type: string
       artifact_prefix:
-        description: 'Unique artifact name prefix (to avoid overriding existing artifcats during parallel runs).'
+        description: 'Unique artifact name prefix (to avoid overriding existing artifacts during parallel runs).'
         required: true
         type: string
       can_deploy:

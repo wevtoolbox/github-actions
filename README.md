@@ -1,21 +1,21 @@
 # GitHub Action Reusable Workflows
 
-[![Tag](https://img.shields.io/github/tag/devilbox/github-actions.svg)](https://github.com/devilbox/github-actions/releases)
+[![Tag](https://img.shields.io/github/tag/wevtoolbox/github-actions.svg)](https://github.com/wevtoolbox/github-actions/releases)
 [![License](https://img.shields.io/badge/license-MIT-%233DA639.svg)](https://opensource.org/licenses/MIT)
 
-Required GitHub Action Reusable Workflows for Devilbox. See [.github/workflows](.github/workflows).
+Required GitHub Action Reusable Workflows for WevToolbox. See [.github/workflows](.github/workflows).
 
 
-## :computer: Usage
+## 💻 Usage
 
-See how the reusable workflows are used [from this repository](https://github.com/devilbox/github-actions/network/dependents).
-
-
-## :exclamation: Keep up-to-date with GitHub Dependabot
+See how the reusable workflows are used [from this repository](https://github.com/wevtoolbox/github-actions/network/dependents).
 
 
-| :warning: UPDATE    |
-|:--------------------|
+## ❗ Keep up-to-date with GitHub Dependabot
+
+
+| :warning: UPDATE                                                                                                                                                |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | The following is not yet available as part of Dependabots package ecosystem.<br/>https://github.community/t/dependabot-with-reusable-workflow-versions/207372/4 |
 
 
@@ -34,8 +34,10 @@ updates:
 Then Dependabot will PR you version updates as soon as this repository gets updated.
 
 
-## :page_facing_up: License
+## 📄 License
 
-**[MIT License](LICENSE)**
+**[MIT License](LICENSE.md)**
 
-Copyright (c) 2022 [cytopia](https://github.com/cytopia)
+Copyright (c) 2022 **[cytopia](https://github.com/cytopia)**
+
+Copyright (c) 2024 **[bogny](https://github.com/bogny)**
