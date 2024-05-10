@@ -1,5 +1,5 @@
 ---
-name: Repository
+name: Sync labels
 
 on:
   push:
